@@ -25,7 +25,7 @@ export default{
 
 </template>
 
-<style >
+<style>
 .navbar-nav {
         position: absolute;
         left: 50%;
