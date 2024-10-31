@@ -27,7 +27,7 @@ export default {
 </script>
 
 <template>
-  <div class="container">
+  <div class="container mt-5">
     <ul class="nav nav-tabs">
       <li class="nav-item">
         <a class="nav-link" :class="{ active: activeTab === 'tab1' }" 
