@@ -19,7 +19,9 @@ export default{
                 </li>
             </ul>
         </div>
-        <a class="navbar-brand" href="">CV</a>
+        <a class="btn btn-primary" href="">
+            <span class="material-symbols-outlined mx-auto">download</span>
+            CV</a>
     </div>
 </nav>
 
