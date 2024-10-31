@@ -19,9 +19,7 @@ export default{
                 </li>
             </ul>
         </div>
-        <a class="btn btn-primary" href="">
-            <span class="material-symbols-outlined mx-auto">download</span>
-            CV</a>
+        <a class="btn btn-primary" href=""><span class="material-symbols-outlined">download</span>CV</a>
     </div>
 </nav>
 
@@ -32,5 +30,5 @@ export default{
         position: absolute;
         left: 50%;
         transform: translateX(-50%);
-    }
+    };
 </style>
