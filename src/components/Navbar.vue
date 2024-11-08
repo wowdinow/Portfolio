@@ -14,7 +14,7 @@ export default{
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-light bg-light shadow sticky-top">
     <div class="container-fluid">
-        <router-link class="navbar-brand" href="/">Frando Wadino</router-link>
+        <router-link class="navbar-brand" href="/">FW</router-link>
         <div class="collapse navbar-collapse d-flex justify-content-center">
             <ul class="navbar-nav mb-2 mb-lg-0">
                 <li class="nav-item">
